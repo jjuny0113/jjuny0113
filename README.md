@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-웹성능 향상에 대해 관심이 많습니다. 
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjuny0113&show_icons=true&theme=onedark)
